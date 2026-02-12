@@ -1,11 +1,11 @@
 <div align="center">
 
 # Lori Battouk  
-### Software Engineer • Full-Stack Developer • Fintech & Data Systems
+### Software Engineer — Full-Stack Developer  
 
-📍 Aurora, Ontario  
-💼 Computer Science @ York University  
-🚀 Seeking Summer/Fall 2026 SWE & Fintech Internships  
+📍 Toronto, Ontario  
+📧 lbattouk@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/LoriBattouk)
 
 </div>
 
@@ -13,70 +13,104 @@
 
 ## 👩‍💻 About Me
 
-I’m a Computer Science student passionate about building scalable, production-ready systems at the intersection of technology and finance.
+Computer Science student at **York University, Lassonde School of Engineering**  
+B.A. Specialized Honours in Computer Science  
 
-- 🔧 Built a full-stack e-commerce platform using **Next.js + Supabase + Stripe**
-- 📊 Conducted fintech research analyzing real-world payment workflows
-- 🧠 Interested in data systems, fintech infrastructure, and backend engineering
-- 🚀 Constantly building, learning, and shipping
+I build structured, scalable, and production-ready software systems across the full stack.
+
+My work spans:
+- Application architecture
+- API integrations
+- Payment systems
+- Database design
+- AI-driven applications
+- Cloud deployment
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 Experience
 
-### Languages
+### 🐎 Pegasus Liquidation — Lead Web Developer
+**Next.js • Supabase • Stripe • Authentication • Deployment**
+
+- Designed and developed a full-stack e-commerce platform
+- Integrated secure Stripe payment workflows
+- Built backend services and structured database schema
+- Managed domain configuration and deployment as sole technical lead
+
+---
+
+### 📊 Qupay Consulting Project — Research Consultant (Fintech)
+
+- Conducted structured interviews analyzing payment workflows
+- Synthesized insights to guide product improvements
+
+---
+
+## 🛠 Technical Stack
+
+### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Frontend
+---
+
+### 🎨 Frontend
 ![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Backend & Cloud
+---
+
+### ⚙ Backend & Infrastructure
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-ECS%20%7C%20S3-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
-
-### 🐎 Pegasus Liquidation
-Production-ready full-stack e-commerce platform  
-**Next.js • Supabase • Stripe • Authentication • Payments**
+### 🔐 Auth, Payments & Testing
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ---
+
+## 🧠 Selected Projects
 
 ### 🤖 6ixAssist
 AI-powered community resource finder  
-**React • TypeScript • Gemini API • OpenStreetMap**
+React • TypeScript • Gemini API • OpenStreetMap  
 
 ---
 
 ### 🎒 PackPal
 AI travel packing assistant  
-**Next.js • PostgreSQL • TypeScript**
+Next.js • TypeScript • PostgreSQL  
 
 ---
 
-## 📊 GitHub Stats
+## 🤝 Collaborative Contributions
 
-<div align="center">
+### 🎮 WealthQuest (Hackathon Project)
+Contributed feature implementation in a 36-hour team build focused on financial literacy.
 
-![Lori's GitHub stats](https://github-readme-stats.vercel.app/api?username=LoriB14&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LoriB14&layout=compact&theme=radical)
-
-</div>
+### 🧳 PackPal (Team Collaboration)
+Contributed to frontend features and application logic in a hackathon environment.
 
 ---
 
-## 📫 Connect With Me
+## 📬 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/LoriBattouk)
+LinkedIn: linkedin.com/in/LoriBattouk  
+Email: lbattouk@gmail.com  
 
-Email: lbattouk@gmail.com
